@@ -1,0 +1,12 @@
+GET http://localhost:3000/status HTTP/1.1
+###
+
+POST http://localhost:3000/operand HTTP/1.1
+content-type: application/json
+
+{
+    "a": 30,
+    "b": 10,
+    "c": 10,
+    "d": 5
+}
