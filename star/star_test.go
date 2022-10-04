@@ -1,5 +1,3 @@
-//go:build unittest
-
 package star
 
 import (
