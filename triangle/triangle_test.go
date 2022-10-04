@@ -1,3 +1,5 @@
+//go:build unittest
+
 package triangle
 
 import "testing"
